@@ -35,10 +35,15 @@ This project solves the problem by creating an **AI-powered digitization and tra
 ChronoScript AI performs the following pipeline:
 
 1️⃣ Upload handwritten document
+
 2️⃣ Preprocess and enhance image
+
 3️⃣ Extract text using OCR
+
 4️⃣ Correct OCR errors using AI language models
+
 5️⃣ Translate extracted text into regional languages
+
 6️⃣ Display translated text with search and accessibility features
 
 
